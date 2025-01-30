@@ -1,1 +1,1 @@
-In this repo we will look at the distinct elements of Model Training, Validation and Testing and Experiment Tracking
+In this repo we will look at Training and Evaluation including Training and Validation, Testing and Experiment Tracking.
